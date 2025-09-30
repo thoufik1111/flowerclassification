@@ -1,0 +1,411 @@
+{
+  "pink primrose": {
+    "fact": "Pink primroses are early-blooming perennials often seen in woodlands.",
+    "wiki": "https://en.wikipedia.org/wiki/Primula"
+  },
+  "hard-leaved pocket orchid": {
+    "fact": "Hard-leaved pocket orchids are ground orchids native to Australia.",
+    "wiki": "https://en.wikipedia.org/wiki/Orchidaceae"
+  },
+  "canterbury bells": {
+    "fact": "Canterbury bells are popular garden biennials with bell-shaped flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Campanula_portenschlagiana"
+  },
+  "sweet pea": {
+    "fact": "Sweet peas are fragrant climbing plants known for their beautiful blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Lathyrus_odoratus"
+  },
+  "english marigold": {
+    "fact": "English marigolds are traditional garden favorites with rich, edible blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Calendula_officinalis"
+  },
+  "tiger lily": {
+    "fact": "Tiger lilies are striking orange flowers with spotted petals.",
+    "wiki": "https://en.wikipedia.org/wiki/Lilium_tigrinum"
+  },
+  "moon orchid": {
+    "fact": "Moon orchids, also known as moth orchids, are elegant and long-flowering.",
+    "wiki": "https://en.wikipedia.org/wiki/Phalaenopsis"
+  },
+  "bird of paradise": {
+    "fact": "Bird of paradise blooms resemble vibrant tropical birds.",
+    "wiki": "https://en.wikipedia.org/wiki/Strelitzia_reginae"
+  },
+  "monkshood": {
+    "fact": "Monkshood has hood-shaped deep blue flowers in early summer.",
+    "wiki": "https://en.wikipedia.org/wiki/Aconitum"
+  },
+  "globe thistle": {
+    "fact": "Globe thistles are silvery-blue and highly drought tolerant.",
+    "wiki": "https://en.wikipedia.org/wiki/Echinops"
+  },
+  "snapdragon": {
+    "fact": "Snapdragons have unique flowers that resemble dragon mouths.",
+    "wiki": "https://en.wikipedia.org/wiki/Antirrhinum"
+  },
+  "colt's foot": {
+    "fact": "Colt’s foot is one of the first spring flowers, often in damp spots.",
+    "wiki": "https://en.wikipedia.org/wiki/Tussilago_farfara"
+  },
+  "king protea": {
+    "fact": "The king protea is the national flower of South Africa with a large bloom.",
+    "wiki": "https://en.wikipedia.org/wiki/Protea_cynaroides"
+  },
+  "spear thistle": {
+    "fact": "Spear thistle bears spiky purple flower heads and is very spiky.",
+    "wiki": "https://en.wikipedia.org/wiki/Cirsium_vulgare"
+  },
+  "yellow iris": {
+    "fact": "Yellow irises often grow near water and have bright yellow blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Iris_pseudacorus"
+  },
+  "globe-flower": {
+    "fact": "Globe-flowers produce round, golden blossoms in damp alpine areas.",
+    "wiki": "https://en.wikipedia.org/wiki/Globeflower"
+  },
+  "purple coneflower": {
+    "fact": "Purple coneflowers are popular medicinal and ornamental perennials.",
+    "wiki": "https://en.wikipedia.org/wiki/Echinacea_purpurea"
+  },
+  "peruvian lily": {
+    "fact": "Peruvian lilies are flashy tropical bulbs with spotted blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Alstroemeria"
+  },
+  "balloon flower": {
+    "fact": "Balloon flowers inflate like balloons before popping into blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Platycodon_grandiflorus"
+  },
+  "giant white arum lily": {
+    "fact": "Arum lilies have elegant white spathes atop tall green stems.",
+    "wiki": "https://en.wikipedia.org/wiki/Zantedeschia_aethiopica"
+  },
+  "fire lily": {
+    "fact": "Fire lilies have fiery red-orange blooms that brighten the garden.",
+    "wiki": "https://en.wikipedia.org/wiki/Amaryllis_belladonna"
+  },
+  "pincushion flower": {
+    "fact": "Pincushion flowers have a unique flower-head that resembles pins clustered together.",
+    "wiki": "https://en.wikipedia.org/wiki/Scabiosa"
+  },
+  "fritillary": {
+    "fact": "Fritillaries have bell-shaped, checkered-patterned petals.",
+    "wiki": "https://en.wikipedia.org/wiki/Fritillaria"
+  },
+  "red ginger": {
+    "fact": "Red gingers feature eye-catching red bracts and are tropically beautiful.",
+    "wiki": "https://en.wikipedia.org/wiki/Alpinia_purpurata"
+  },
+  "grape hyacinth": {
+    "fact": "Grape hyacinths have small clustered blooms resembling grapes.",
+    "wiki": "https://en.wikipedia.org/wiki/Muscari"
+  },
+  "corn poppy": {
+    "fact": "Corn poppies are delicate red annuals symbolic of remembrance.",
+    "wiki": "https://en.wikipedia.org/wiki/Papaver_rhoeas"
+  },
+  "prince of wales feathers": {
+    "fact": "Prince of Wales feathers have slender blue petals and a central disk.",
+    "wiki": "https://en.wikipedia.org/wiki/Centaurea" 
+  },
+  "stemless gentian": {
+    "fact": "Stemless gentians form ground-hugging blooms that thrive in alpine terrain.",
+    "wiki": "https://en.wikipedia.org/wiki/Gentiana"
+  },
+  "artichoke": {
+    "fact": "Artichoke flowers show their bold thistle-like heads when they bloom.",
+    "wiki": "https://en.wikipedia.org/wiki/Globe_artichoke"
+  },
+  "sweet william": {
+    "fact": "Sweet williams are fragrant and popular in cottage gardens.",
+    "wiki": "https://en.wikipedia.org/wiki/Dianthus_barbatus"
+  },
+  "carnation": {
+    "fact": "Carnations are classic blooms often used in bouquets and ceremonies.",
+    "wiki": "https://en.wikipedia.org/wiki/Dianthus_caryophyllus"
+  },
+  "garden phlox": {
+    "fact": "Garden phlox produces tall clusters of fragrant summer flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Phlox_paniculata"
+  },
+  "love in the mist": {
+    "fact": "Love-in-the-mist features delicate flowers surrounded by lacy foliage.",
+    "wiki": "https://en.wikipedia.org/wiki/Nigella_damascena"
+  },
+  "mexican aster": {
+    "fact": "Mexican asters bloom profusely with lavender daisy-like flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Callistephus_chinensis"
+  },
+  "alpine sea holly": {
+    "fact": "Alpine sea holly is known for its spiky, metallic blue blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Eryngium_alpinum"
+  },
+  "ruby-lipped cattleya": {
+    "fact": "Cattleya orchids are prized for their large, fragrant flowers with colorful lips.",
+    "wiki": "https://en.wikipedia.org/wiki/Cattleya"
+  },
+  "cape flower": {
+    "fact": "Cape flowers are bright and native to South Africa’s shrublands.",
+    "wiki": "https://en.wikipedia.org/wiki/Cape_flower"
+  },
+  "great masterwort": {
+    "fact": "Great masterwort has umbels of star-shaped flowers in summer.",
+    "wiki": "https://en.wikipedia.org/wiki/Pedicularis" 
+  },
+  "siam tulip": {
+    "fact": "The Siam tulip is a striking tropical flower from Thailand.",
+    "wiki": "https://en.wikipedia.org/wiki/Curcuma_alismatifolia"
+  },
+  "lenten rose": {
+    "fact": "Lenten roses bloom in early spring and are poisonous, despite the name.",
+    "wiki": "https://en.wikipedia.org/wiki/Helleborus"
+  },
+  "barbeton daisy": {
+    "fact": "Barbeton daisies produce showy, daisy-like blooms throughout summer.",
+    "wiki": "https://en.wikipedia.org/wiki/Berlandiera_linzmeierae"
+  },
+  "daffodil": {
+    "fact": "Daffodils are cheerful yellow flowers symbolic of spring.",
+    "wiki": "https://en.wikipedia.org/wiki/Narcissus"
+  },
+  "sword lily": {
+    "fact": "Sword lilies have tall sword-like stems with bright blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Gladiolus"
+  },
+  "poinsettia": {
+    "fact": "Poinsettias are popular festive flowers with red and green foliage.",
+    "wiki": "https://en.wikipedia.org/wiki/Poinsettia"
+  },
+  "bolero deep blue": {
+    "fact": "Bolero deep blue is a cultivar of deep blue flowering stock.",
+    "wiki": "https://en.wikipedia.org/wiki/Matthiola"
+  },
+  "wallflower": {
+    "fact": "Wallflowers have sweet-scented flowers often found on old walls or stones.",
+    "wiki": "https://en.wikipedia.org/wiki/Erysimum"
+  },
+  "marigold": {
+    "fact": "Marigolds are vibrant and used in festivals and companion planting.",
+    "wiki": "https://en.wikipedia.org/wiki/Tagetes"
+  },
+  "buttercup": {
+    "fact": "Buttercups are glossy yellow wildflowers often found in meadows.",
+    "wiki": "https://en.wikipedia.org/wiki/Ranunculus_acris"
+  },
+  "oxeye daisy": {
+    "fact": "Oxeye daisies are hardy meadow flowers with classic daisy shape.",
+    "wiki": "https://en.wikipedia.org/wiki/Leucanthemum_vulgare"
+  },
+  "common dandelion": {
+    "fact": "Dandelions are fully edible—from roots to petals—and spread widely.",
+    "wiki": "https://en.wikipedia.org/wiki/Taraxacum"
+  },
+  "petunia": {
+    "fact": "Petunias are prolific summer bloomers in hanging baskets and containers.",
+    "wiki": "https://en.wikipedia.org/wiki/Petunia"
+  },
+  "wild pansy": {
+    "fact": "Wild pansies are small with pretty violet faces, common in lawns.",
+    "wiki": "https://en.wikipedia.org/wiki/Viola_tricolor"
+  },
+  "primula": {
+    "fact": "Primulas include early-spring blooms like primroses and polyanthus.",
+    "wiki": "https://en.wikipedia.org/wiki/Primula"
+  },
+  "sunflower": {
+    "fact": "Sunflowers follow the sun across the sky—this is called heliotropism.",
+    "wiki": "https://en.wikipedia.org/wiki/Helianthus"
+  },
+  "pelargonium": {
+    "fact": "Pelargoniums, or geraniums, are popular bedding plants with scented leaves.",
+    "wiki": "https://en.wikipedia.org/wiki/Pelargonium"
+  },
+  "bishop of llandaff": {
+    "fact": "Bishop of Llandaff is a geranium variety with striking dark leaves and scarlet flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Geranium_%27Bishop_of_Llandaff%27"
+  },
+  "gaura": {
+    "fact": "Gaura has delicate blooms that flutter in the breeze, also called butterfly flower.",
+    "wiki": "https://en.wikipedia.org/wiki/Oenothera_lindheimeri"
+  },
+  "geranium": {
+    "fact": "Geraniums are hardy flowering plants often used in garden borders.",
+    "wiki": "https://en.wikipedia.org/wiki/Geranium"
+  },
+  "orange dahlia": {
+    "fact": "Orange dahlias feature bold, spiky petals ideal for vibrant bouquets.",
+    "wiki": "https://en.wikipedia.org/wiki/Dahlia"
+  },
+  "pink-yellow dahlia?": {
+    "fact": "These dahlias show beautiful pink and yellow hues blended in every bloom.",
+    "wiki": "https://en.wikipedia.org/wiki/Dahlia"
+  },
+  "cautleya spicata": {
+    "fact": "Cautleya spicata is an exotic ginger-like flower from Asia.",
+    "wiki": "https://en.wikipedia.org/wiki/Cautleya_spicata"
+  },
+  "japanese anemone": {
+    "fact": "Japanese anemones bloom late in the season with delicate petals.",
+    "wiki": "https://en.wikipedia.org/wiki/Anemone_hupehensis"
+  },
+  "black-eyed susan": {
+    "fact": "Black-eyed Susans are bright yellow with a dark center, hardy perennials.",
+    "wiki": "https://en.wikipedia.org/wiki/Rudbeckia_hirta"
+  },
+  "silverbush": {
+    "fact": "Silverbush plants have silvery foliage and simple daisy-like flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Gnaphalium"
+  },
+  "californian poppy": {
+    "fact": "California poppies bloom in golden orange waves across fields.",
+    "wiki": "https://en.wikipedia.org/wiki/Eschscholzia_californica"
+  },
+  "osteospermum": {
+    "fact": "Osteospermums are African daisies that close at night and reopen in sun.",
+    "wiki": "https://en.wikipedia.org/wiki/Osteospermum"
+  },
+  "spring crocus": {
+    "fact": "Spring crocuses bloom very early—often poking through snow.",
+    "wiki": "https://en.wikipedia.org/wiki/Crocus"
+  },
+  "bearded iris": {
+    "fact": "Bearded irises have ruffled petals and tall stems, classic garden flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Iris_germanica"
+  },
+  "windflower": {
+    "fact": "Windflowers are nodding blooms that open up in breezy conditions.",
+    "wiki": "https://en.wikipedia.org/wiki/Anemone"
+  },
+  "tree poppy": {
+    "fact": "Tree poppies are tall, shrubby poppies with woody stems.",
+    "wiki": "https://en.wikipedia.org/wiki/Makiopsis"
+  },
+  "gazania": {
+    "fact": "Gazania have bright daisy-like flowers that close at night.",
+    "wiki": "https://en.wikipedia.org/wiki/Gazania"
+  },
+  "azalea": {
+    "fact": "Azaleas produce vivid blooms in spring and are highly ornamental.",
+    "wiki": "https://en.wikipedia.org/wiki/Azalea"
+  },
+  "water lily": {
+    "fact": "Water lilies float elegantly on ponds and inspired Monet’s art.",
+    "wiki": "https://en.wikipedia.org/wiki/Water_lily"
+  },
+  "rose": {
+    "fact": "Roses have been cultivated for millennia and symbolize love.",
+    "wiki": "https://en.wikipedia.org/wiki/Rose"
+  },
+  "thorn apple": {
+    "fact": "Thorn apples bear spiky seed pods and are historically used medicinally.",
+    "wiki": "https://en.wikipedia.org/wiki/Datura_stramonium"
+  },
+  "morning glory": {
+    "fact": "Morning glories open each morning and have trumpet-shaped blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Ipomoea"
+  },
+  "passion flower": {
+    "fact": "Passion flowers have intricate blooms and edible fruit (passionfruit).",
+    "wiki": "https://en.wikipedia.org/wiki/Passiflora"
+  }  ,
+  "lotus": {
+    "fact": "Lotus flowers are sacred in many cultures, symbolizing purity and enlightenment.",
+    "wiki": "https://en.wikipedia.org/wiki/Nelumbo_nucifera"
+  },
+  "toad lily": {
+    "fact": "Toad lilies bloom in late summer with orchid-like spotted flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Tricyrtis"
+  },
+  "anthurium": {
+    "fact": "Anthuriums have waxy, heart-shaped spathes often seen as indoor plants.",
+    "wiki": "https://en.wikipedia.org/wiki/Anthurium"
+  },
+  "frangipani": {
+    "fact": "Frangipanis are fragrant tropical flowers often used in leis.",
+    "wiki": "https://en.wikipedia.org/wiki/Plumeria"
+  },
+  "clematis": {
+    "fact": "Clematis are climbing vines with star-like flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Clematis"
+  },
+  "hibiscus": {
+    "fact": "Hibiscus flowers are tropical blooms used in teas and as ornamentals.",
+    "wiki": "https://en.wikipedia.org/wiki/Hibiscus"
+  },
+  "columbine": {
+    "fact": "Columbines have unique spurred petals and attract hummingbirds.",
+    "wiki": "https://en.wikipedia.org/wiki/Aquilegia"
+  },
+  "desert-rose": {
+    "fact": "Desert roses are succulents with swollen trunks and striking flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Adenium"
+  },
+  "tree mallow": {
+    "fact": "Tree mallows are tall shrubs with hibiscus-like flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Malva_arborea"
+  },
+  "magnolia": {
+    "fact": "Magnolias are ancient flowering trees with fragrant blossoms.",
+    "wiki": "https://en.wikipedia.org/wiki/Magnolia"
+  },
+  "cyclamen": {
+    "fact": "Cyclamens are winter bloomers with reflexed petals and patterned leaves.",
+    "wiki": "https://en.wikipedia.org/wiki/Cyclamen"
+  },
+  "watercress": {
+    "fact": "Watercress is a leafy aquatic plant with small white flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Watercress"
+  },
+  "canna lily": {
+    "fact": "Canna lilies are tropical plants with showy, banana-like foliage.",
+    "wiki": "https://en.wikipedia.org/wiki/Canna_(plant)"
+  },
+  "hippeastrum": {
+    "fact": "Hippeastrums are bulbs with spectacular trumpet-like flowers indoors.",
+    "wiki": "https://en.wikipedia.org/wiki/Hippeastrum"
+  },
+  "bee balm": {
+    "fact": "Bee balm has spiky flower clusters and is loved by pollinators.",
+    "wiki": "https://en.wikipedia.org/wiki/Monarda"
+  },
+  "ball moss": {
+    "fact": "Ball moss is an epiphytic plant often found hanging on trees.",
+    "wiki": "https://en.wikipedia.org/wiki/Tillandsia_recurvata"
+  },
+  "foxglove": {
+    "fact": "Foxgloves are tall spires of tubular flowers, historically used in medicine.",
+    "wiki": "https://en.wikipedia.org/wiki/Digitalis"
+  },
+  "bougainvillea": {
+    "fact": "Bougainvilleas are tropical vines with bright papery bracts.",
+    "wiki": "https://en.wikipedia.org/wiki/Bougainvillea"
+  },
+  "camellia": {
+    "fact": "Camellias are evergreen shrubs with rose-like flowers, beloved in Asia.",
+    "wiki": "https://en.wikipedia.org/wiki/Camellia"
+  },
+  "mallow": {
+    "fact": "Mallows are related to hibiscus and produce colorful blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Malva"
+  },
+  "mexican petunia": {
+    "fact": "Mexican petunias are hardy perennials with purple trumpet-shaped blooms.",
+    "wiki": "https://en.wikipedia.org/wiki/Ruellia_simplex"
+  },
+  "bromelia": {
+    "fact": "Bromelias are tropical plants often with colorful bracts and rosettes.",
+    "wiki": "https://en.wikipedia.org/wiki/Bromeliaceae"
+  },
+  "blanket flower": {
+    "fact": "Blanket flowers have daisy-like blooms with fiery red and yellow colors.",
+    "wiki": "https://en.wikipedia.org/wiki/Gaillardia"
+  },
+  "trumpet creeper": {
+    "fact": "Trumpet creepers are climbing vines with large orange-red trumpet flowers.",
+    "wiki": "https://en.wikipedia.org/wiki/Campsis_radicans"
+  },
+  "blackberry lily": {
+    "fact": "Blackberry lilies have orange-spotted flowers and blackberry-like seed pods.",
+    "wiki": "https://en.wikipedia.org/wiki/Iris_domestica"
+  }
+}
+
