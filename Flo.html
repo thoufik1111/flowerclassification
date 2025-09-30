@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🌸 Flower Classifier</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #fceabb, #f8b500);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    h1 {
+      font-size: 3rem;
+      color: #fff;
+      margin-top: 40px;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    form {
+      margin-top: 20px;
+      background: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(8px);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    input[type="file"] {
+      margin-bottom: 15px;
+      font-size: 16px;
+      background: #fff;
+      padding: 10px;
+      border-radius: 8px;
+    }
+
+    button {
+      background: #ff6f61;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    button:hover {
+      background: #e65c50;
+    }
+
+    .card {
+      margin-top: 30px;
+      padding: 20px;
+      background: rgba(255,255,255,0.4);
+      border-radius: 20px;
+      backdrop-filter: blur(12px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+      text-align: center;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .card img {
+      max-width: 300px;
+      border-radius: 15px;
+      margin-bottom: 20px;
+    }
+
+    .prediction {
+      font-size: 26px;
+      font-weight: bold;
+      color: #333;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .fact {
+      margin-top: 15px;
+      font-size: 16px;
+      color: #222;
+      background: rgba(255, 255, 255, 0.3);
+      padding: 12px;
+      border-radius: 12px;
+      max-width: 350px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .learn-link {
+      display: inline-block;
+      margin-top: 10px;
+      font-size: 14px;
+      color: #0056b3;
+      text-decoration: none;
+    }
+
+    .learn-link:hover {
+      text-decoration: underline;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(40px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <h1>🌼 Flower Classifier</h1>
+
+  <form method="POST" enctype="multipart/form-data">
+    <input type="file" name="file" accept="image/*" required>
+    <button type="submit">Predict Flower</button>
+  </form>
+
+  {% if prediction %}
+    <div class="card">
+      <img src="{{ img_path }}" alt="Uploaded Flower">
+      <div class="prediction">{{ prediction }}</div>
+      {% if fact %}
+        <div class="fact">
+          🌸 {{ fact }}<br>
+          <a class="learn-link" href="{{ wiki }}" target="_blank">
+            Learn more about {{ prediction }}
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+</body>
+</html>
