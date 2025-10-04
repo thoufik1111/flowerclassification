@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/aa365cdf-4e81-4831-b95a-5cfd01d0345e" /># 🌼 Flower Classification with MobileNet
+# 🌼 Flower Classification with MobileNet
 
 This project presents a **deep learning-based solution for automated flower classification** using **MobileNet**, a lightweight convolutional neural network optimized for mobile and embedded devices.  
 
